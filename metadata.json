@@ -1,0 +1,5 @@
+{
+  "name": "Research Paper Assistant",
+  "description": "An application to search research papers using Semantic Scholar and generate Introduction and Related Works sections using AI (Gemini/OpenRouter), along with a chat feature.",
+  "requestFramePermissions": []
+}
